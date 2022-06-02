@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite">
+  <test thread-count="5" name="TestNG_Omar">
+    <classes>
+      <class name="TestNG_Omar.editProfileInfo_TestNG"/>
+      <class name="TestNG_Omar.addWorkExp_TestNG"/>
+      <class name="TestNG_Omar.editWorkExp_TestNG"/>
+      <class name="TestNG_Omar.deleteWorkExp_TestNG"/> 
+      <class name="TestNG_Omar.addWorkExpNeg_TestNG"/>
+    </classes>
+  </test> <!-- TestNG_Omar -->
+</suite> <!-- Suite -->

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="TestSuite_Ahmed177372">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="Selenium_TestNG.Messaging_TestNG"/>
+      <class name="Selenium_TestNG.DeleteMessage_TestNG"/>
+      <class name="Selenium_TestNG.RestoreMessage_TestNG"/>
+      <class name="Selenium_TestNG.MessageNotSent_TestNG"/>
+      
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- TestSuite_Ahmed177372-->

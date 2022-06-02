@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Youssef178900" duration-ms="266429" started-at="2021-06-07T20:11:12Z" finished-at="2021-06-07T20:15:38Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="266429" started-at="2021-06-07T20:11:12Z" finished-at="2021-06-07T20:15:38Z">
+      <class name="lll.UnapplyToJob_TestNG">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:lll.UnapplyToJob_TestNG@7c16905e]" name="beforeMethod" is-config="true" duration-ms="27469" started-at="2021-06-07T20:11:58Z" finished-at="2021-06-07T20:12:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f()[pri:0, instance:lll.UnapplyToJob_TestNG@7c16905e]" name="f" duration-ms="30714" started-at="2021-06-07T20:12:25Z" finished-at="2021-06-07T20:12:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:lll.UnapplyToJob_TestNG@7c16905e]" name="afterMethod" is-config="true" duration-ms="1" started-at="2021-06-07T20:12:56Z" finished-at="2021-06-07T20:12:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- lll.UnapplyToJob_TestNG -->
+      <class name="lll.ApplyToJob_TestNG">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:lll.ApplyToJob_TestNG@1753acfe]" name="beforeMethod" is-config="true" duration-ms="22794" started-at="2021-06-07T20:11:12Z" finished-at="2021-06-07T20:11:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f()[pri:0, instance:lll.ApplyToJob_TestNG@1753acfe]" name="f" duration-ms="23255" started-at="2021-06-07T20:11:35Z" finished-at="2021-06-07T20:11:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:lll.ApplyToJob_TestNG@1753acfe]" name="afterMethod" is-config="true" duration-ms="0" started-at="2021-06-07T20:11:58Z" finished-at="2021-06-07T20:11:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- lll.ApplyToJob_TestNG -->
+      <class name="lll.Search_TestNG">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:lll.Search_TestNG@2a5ca609]" name="beforeMethod" is-config="true" duration-ms="28057" started-at="2021-06-07T20:14:59Z" finished-at="2021-06-07T20:15:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f()[pri:0, instance:lll.Search_TestNG@2a5ca609]" name="f" duration-ms="10709" started-at="2021-06-07T20:15:27Z" finished-at="2021-06-07T20:15:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:lll.Search_TestNG@2a5ca609]" name="afterMethod" is-config="true" duration-ms="0" started-at="2021-06-07T20:15:38Z" finished-at="2021-06-07T20:15:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- lll.Search_TestNG -->
+      <class name="lll.ApplyError_TestNG">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:lll.ApplyError_TestNG@2a2d45ba]" name="beforeMethod" is-config="true" duration-ms="79421" started-at="2021-06-07T20:12:56Z" finished-at="2021-06-07T20:14:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f()[pri:0, instance:lll.ApplyError_TestNG@2a2d45ba]" name="f" duration-ms="43928" started-at="2021-06-07T20:14:15Z" finished-at="2021-06-07T20:14:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:lll.ApplyError_TestNG@2a2d45ba]" name="afterMethod" is-config="true" duration-ms="0" started-at="2021-06-07T20:14:59Z" finished-at="2021-06-07T20:14:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- lll.ApplyError_TestNG -->
+    </test> <!-- Test -->
+  </suite> <!-- Youssef178900 -->
+</testng-results>

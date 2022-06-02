@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="New folder">
+    <CLASSES>
+      <root url="file://A:/study/SQA/New folder" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://A:/study/SQA/New folder" />
+    </SOURCES>
+    <jarDirectory url="file://A:/study/SQA/New folder" recursive="false" />
+    <jarDirectory url="file://A:/study/SQA/New folder" recursive="false" type="SOURCES" />
+  </library>
+</component>

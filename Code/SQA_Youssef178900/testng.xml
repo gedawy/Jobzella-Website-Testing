@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Youssef178900">
+  <test thread-count="5" name="Test">
+    <classes>
+    
+      <class name="lll.ApplyToJob_TestNG"/>
+      <class name="lll.UnapplyToJob_TestNG"/>
+      <class name="lll.ApplyError_TestNG"/>
+      <class name="lll.Search_TestNG"/>
+      
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Youssef178900 -->

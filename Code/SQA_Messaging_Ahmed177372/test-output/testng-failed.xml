@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [TestSuite_Ahmed177372]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="Selenium_TestNG.MessageNotSent_TestNG">
+        <methods>
+          <include name="f"/>
+          <include name="beforeMethod"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- Selenium_TestNG.MessageNotSent_TestNG -->
+      <class name="Selenium_TestNG.DeleteMessage_TestNG">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="beforeMethod"/>
+          <include name="f"/>
+        </methods>
+      </class> <!-- Selenium_TestNG.DeleteMessage_TestNG -->
+      <class name="Selenium_TestNG.Messaging_TestNG">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="f"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- Selenium_TestNG.Messaging_TestNG -->
+      <class name="Selenium_TestNG.RestoreMessage_TestNG">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="afterMethod"/>
+          <include name="f"/>
+        </methods>
+      </class> <!-- Selenium_TestNG.RestoreMessage_TestNG -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [TestSuite_Ahmed177372] -->

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="TestNG_Omar(failed)">
+    <classes>
+      <class name="TestNG_Omar.editProfileInfo_TestNG">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="f"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- TestNG_Omar.editProfileInfo_TestNG -->
+      <class name="TestNG_Omar.addWorkExp_TestNG">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="beforeMethod"/>
+          <include name="f"/>
+        </methods>
+      </class> <!-- TestNG_Omar.addWorkExp_TestNG -->
+    </classes>
+  </test> <!-- TestNG_Omar(failed) -->
+</suite> <!-- Failed suite [Suite] -->
